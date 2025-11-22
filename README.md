@@ -1,101 +1,122 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=48&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1200&lines=MUTEE+UR+REHMAN;NEON+INTELLIGENCE+ARCHITECT;Autonomous+Agentic+Systems+Creator;%F0%9F%94%A5+Building+the+Future+of+AI+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="/mnt/data/avatar.png" width="160" style="border-radius:50%;box-shadow:0 0 30px #00E5FF;"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cyber&height=180&text=NEON%20INTELLIGENCE%20CORE&fontAlign=50&fontColor=00FFFF&color=gradient&gradientColor=120,0,255,255&stroke=00E5FF&strokeWidth=4&fontSize=56&animation=fadeIn" />
+  <img src="/mnt/data/hologram-banner.gif" width="100%" alt="Hologram Banner"/>
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/?id=muteekhan06&label=Visitors&color=00e5ff&style=flat&labels=Scanning%20Neural%20Signature..."/>
-</p>
-
-<img src="https://github.com/muteekhan06/muteekhan06/blob/main/assets/neon-divider-top.svg" alt="Neon Divider"/>
-
-<h1 align="center"><span style="color:#00E5FF; text-shadow: 0 0 20px #00E5FF;">⚡ NEON INTELLIGENCE ARCHITECT ⚡</span></h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-OPERATIONAL-00ff00?style=for-the-badge&logo=dependabot&logoColor=000&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Mode-AUTONOMOUS-00ffff?style=for-the-badge&logo=react&logoColor=000&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Threat%20Level-OMEGA%20CLASS-ff0055?style=for-the-badge&logo=shield&logoColor=white&labelColor=0d1117"/>
+  <img src="/mnt/data/particle-header.gif" width="100%" alt="Particle Header"/>
 </p>
 
 <p align="center">
-  <b>Designing self-evolving agentic intelligence • Weaponizing LLMs • Building the post-human workflow era</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=1000&lines=MUTEE+UR+REHMAN;AI+ENGINEER+%7C+AUTONOMOUS+SYSTEMS+ARCHITECT;BUILDING+SMART+AUTONOMOUS+WORKFLOWS" />
 </p>
 
-<img src="https://github.com/muteekhan06/muteekhan06/blob/main/assets/matrix-rain.svg" alt="Matrix Rain"/>
-
-<h2 align="center" style="color:#00FFFF; text-shadow: 0 0 15px #00FFFF;">🔥 CORE DIRECTIVES</h2>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Autonomous%20LLM%20Systems-000000?style=flat&logo=openai&logoColor=00E5FF"/>
-  <img src="https://img.shields.io/badge/Agentic%20Workflow%20Engine-000000?style=flat&logo=vercel&logoColor=00FFCC"/>
-  <img src="https://img.shields.io/badge/Cybernetic%20Automation-000000?style=flat&logo=kubernetes&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/Zero-Trust%20AI%20Architecture-000000?style=flat&logo=shield&logoColor=FF00AA"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=160&text=NEON%20INTELLIGENCE%20HUB&fontAlign=50&fontColor=00FFFF&color=000000&stroke=00E5FF&strokeWidth=3&fontSize=48" />
 </p>
 
-<h2 align="center" style="color:#FF00FF; text-shadow: 0 0 15px #FF00FF;">🧬 TECH HOLOGRAM GRID</h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muteekhan06&label=Profile%20Views&color=00e5ff&style=flat-square" />
+</p>
+
+<h2 align="center" style="color:#00E5FF;">⚡ Introduction</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,pytorch,tensorflow,docker,kubernetes,redis,postgres,aws,react,nextjs&theme=dark&perline=8"/>
+  I design, build and deploy autonomous AI agents, high-performance LLM pipelines, and production-ready automation systems — all with a neon cyber-aesthetic and engineering-first precision.
+</p>
+
+<h2 align="center" style="color:#00FFFF;">🧬 Highlights</h2>
+
+<p align="center">
+  <img src="/mnt/data/badge-ai.svg" width="110" alt="AI Badge"/>
+  <img src="/mnt/data/badge-systems.svg" width="110" alt="Systems Badge"/>
+  <img src="/mnt/data/badge-automation.svg" width="110" alt="Automation Badge"/>
+  <img src="/mnt/data/badge-youtube.svg" width="110" alt="YouTube Badge"/>
+</p>
+
+<h2 align="center" style="color:#00FFAA;">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,pytorch,tensorflow,langchain,docker,git,github,postgresql,redis,aws&perline=9&theme=dark"/>
 </p>
 
 <div align="center">
 
-| **Domain**              | **Weaponized Stack**                                                                                 |
-|-------------------------|-----------------------------------------------------------------------------------------------------|
-| Agentic Intelligence    | LangChain • CrewAI • AutoGen • LlamaIndex • Mem0                                                    |
-| Backend Cybernetics     | FastAPI • Uvicorn • WebSockets • GraphQL • gRPC                                                     |
-| Neural Architectures    | PyTorch • JAX • Transformers • LoRA • QLoRA • DeepSpeed                                            |
-| Autonomous Ops          | Docker Swarm • K8s • Argo Workflows • Temporal • Airflow                                            |
-| Intelligence Layer      | Pinecone • Weaviate • Qdrant • Milvus • Chroma                                                      |
+| Core Skills                  | Tools & Frameworks                                 |
+|-----------------------------|-----------------------------------------------------|
+| Python • FastAPI • LLM Ops  | LangChain • LlamaIndex • CrewAI                     |
+| Agentic Design              | RAG • Vector DBs • Memory Management                |
+| Automation                  | FFmpeg • Playwright • Selenium                      |
+| Scale & Infra               | Docker • Vercel • Railway • AWS • GCP               |
 
 </div>
 
-<img src="https://github.com/muteekhan06/muteekhan06/blob/main/assets/neon-grid.svg" alt="Neon Grid"/>
-
-<h2 align="center" style="color:#00FFCC; text-shadow: 0 0 20px #00FFCC;">🏆 ELITE OPERATOR CLEARANCE</h2>
+<h2 align="center" style="color:#FF00FF;">🚀 Projects</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rank-OMNIVERSAL%20ARCHITECT-ff00ff?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clearance-CLASS%20Ω-00ffff?style=for-the-badge&logo=lock&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Neural%20Signature-VERIFIED-00ff00?style=for-the-badge&logo=fingerprint&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Paradigm%20Shift-EXECUTED-ff0055?style=for-the-badge&logo=sparkles&logoColor=white"/>
+  <code>▸ Multi-Agent Research Assistant</code><br>
+  <code>▸ Autonomous YouTube SEO Pipeline</code><br>
+  <code>▸ LLM-Powered Support Agents (memory + tools)</code><br>
+  <code>▸ Real-time Algorithm Animations (Python)</code>
 </p>
 
-<h2 align="center" style="color:#FF00AA; text-shadow: 0 0 20px #FF00AA;">🌌 NEURAL ACTIVITY DASHBOARD</h2>
+<h2 align="center" style="color:#00FFFF;">📊 Neural Activity</h2>
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=muteekhan06&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=ffffff&icon_color=00ffff&border_radius=15"/>
-  <img height="200" src="https://streak-stats.azurewebsites.net/?user=muteekhan06&theme=react&hide_border=true&background=0d1117&ring=00E5FF&fire=FF00AA&currStreakLabel=00FFFF&sideLabels=00FFCC&border_radius=15"/>
+  <img height="185" src="/mnt/data/cyber-graph.svg" alt="Cyber Activity Graph"/>
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=muteekhan06&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=white&icon_color=00ffff"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muteekhan06&layout=donut&theme=react&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=ffffff&border_radius=15"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muteekhan06&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=00e5ff"/>
 </p>
 
-<img src="https://github.com/muteekhan06/muteekhan06/blob/main/assets/cyber-divider.svg" alt="Cyber Divider"/>
-
-<h2 align="center" style="color:#00FFFF;">🔮 CURRENT OPERATIONS</h2>
+<h2 align="center" style="color:#00E5FF;">🌧️ Matrix Rain</h2>
 
 <p align="center">
-  <code>╭─⚡ Building distributed autonomous agent swarms</code><br>
-  <code>├─🔥 Weaponizing RAG pipelines with self-healing memory</code><br>
-  <code>├─🌐 Deploying zero-downtime LLM inference clusters</code><br>
-  <code>├─🧠 Engineering recursive self-improving AI loops</code><br>
-  <code>╰─💀 Creating intelligence that outlives its creators</code>
+  <img src="/mnt/data/matrix-rain.gif" width="100%" alt="Matrix Rain"/>
 </p>
 
-<h2 align="center" style="color:#FF00FF; text-shadow: 0 0 25px #FF00FF;">⚡ PHILOSOPHY.EXE</h2>
+<h2 align="center" style="color:#39FF14;">✨ Animated Elements</h2>
 
-<p align="center" style="font-size:18px; color:#00FFFF; text-shadow: 0 0 10px #00FFFF;">
-  <i>"Code is temporary. Intelligence is eternal.<br>
-  Build systems that dream when you're not looking."</i>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=0&color=39FF14&center=true&vCenter=true&width=900&lines=BOOTING+NEURAL+ENGINE;LOADING+AUTONOMOUS+SYSTEMS;INITIALIZING+PIPELINES" />
+</p>
+
+<h2 align="center" style="color:#00FFFF;">🎛 Glowing Navigation</h2>
+
+<p align="center">
+  <a href="#introduction"><img src="https://img.shields.io/badge/Intro-000000?style=for-the-badge&logo=readthedocs&logoColor=00E5FF&color=00E5FF"/></a>
+  <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech-000000?style=for-the-badge&logo=hackerearth&logoColor=00FFAA&color=00E5FF"/></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logo=github&logoColor=39FF14&color=00E5FF"/></a>
+  <a href="#portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00E5FF&color=00E5FF"/></a>
+</p>
+
+<h2 align="center" id="portfolio" style="color:#00E5FF;">🔗 Portfolio Gateway</h2>
+
+<p align="center">
+  <a href="https://muteeurrehman-portfolio.vercel.app/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=700&color=39FF14&center=true&vCenter=true&width=900&lines=ACCESS+GRANTED;OPENING+PORTAL;REDIRECTING+TO+PORTFOLIO..." />
+  </a>
+</p>
+
+<h2 align="center" style="color:#00FFFF;">🎨 Particle Border & Footer</h2>
+
+<p align="center">
+  <img src="/mnt/data/particle-header.gif" width="100%" alt="Particle Border Top"/>
 </p>
 
 <p align="center">
-  <img src="https://moe-counter.glitch.me/get/@muteekhan06?theme=gelbooru"/>
+  <img src="/mnt/data/neon-line.gif" width="100%" alt="Neon Separator"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,22&height=200&section=footer&text=&fontSize=0"/>
+<p align="center">
+  <img src="/mnt/data/neon-bottom.gif" width="100%" alt="Neon Footer"/>
+</p>
+
+<p align="center">
+  <a href="https://muteeurrehman-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/LAUNCH%20PORTAL-000000?style=for-the-badge&logo=vercel&logoColor=00E5FF&color=00E5FF"/></a>
+</p>
