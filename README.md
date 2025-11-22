@@ -2,14 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=48&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1200&lines=MUTEE+UR+REHMAN;NEON+INTELLIGENCE+ARCHITECT;Autonomous+Agentic+Systems+Creator;%F0%9F%94%A5+Building+the+Future+of+AI+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cyber&height=180&text=NEON%20INTELLIGENCE%20CORE&fontAlign=50&fontColor=00FFFF&color=gradient&gradientColor=120,0,255,255&stroke=00E5FF&strokeWidth=4&fontSize=56&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/?id=muteekhan06&label=Visitors&color=00e5ff&style=flat&labels=Scanning%20Neural%20Signature..." />
-</p>
-
 <h1 align="center" style="color:#00E5FF; text-shadow: 0 0 20px #00E5FF;">
   NEON INTELLIGENCE ARCHITECT
 </h1>
