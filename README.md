@@ -68,15 +68,15 @@
 </p>
 
 <h2 align="center" style="color:#00FFFF;">CURRENT OPERATIONS</h2>
-<p align="center">
-<pre>
+<div align="center">
+<pre style="display: inline-block; text-align: left;">
 ╭─⚡ Building distributed autonomous agent swarms
 ├─Weaponizing RAG pipelines with self‑healing memory
 ├─Deploying zero‑downtime LLM inference clusters
 ├─Engineering recursive self‑improving AI loops
 ╰─Creating intelligence that outlives its creators
 </pre>
-</p>
+</div>
 
 <h2 align="center" style="color:#FF00FF; text-shadow: 0 0 25px #FF00FF;">PHILOSOPHY.EXE</h2>
 <p align="center" style="font-size:18px; color:#00FFFF; text-shadow: 0 0 10px #00FFFF;">
