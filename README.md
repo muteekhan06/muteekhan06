@@ -38,13 +38,15 @@
 </p>
 
 <div align="center">
+
 | **Domain** | **Weaponized Stack** |
-|------------|-----------------------|
+|------------|---------------------|
 | Agentic Intelligence | LangChain • CrewAI • AutoGen • LlamaIndex • Mem0 |
 | Backend Cybernetics | FastAPI • Uvicorn • WebSockets • GraphQL • gRPC |
 | Neural Architectures | PyTorch • JAX • Transformers • LoRA • QLoRA • DeepSpeed |
 | Autonomous Ops | Docker Swarm • K8s • Argo Workflows • Temporal • Airflow |
 | Intelligence Layer | Pinecone • Weaviate • Qdrant • Milvus • Chroma |
+
 </div>
 
 <h2 align="center" style="color:#00FFCC; text-shadow: 0 0 20px #00FFCC;">ELITE OPERATOR CLEARANCE</h2>
