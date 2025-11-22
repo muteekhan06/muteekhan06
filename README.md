@@ -59,15 +59,20 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muteekhan06&layout=donut&theme=react&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=ffffff&border_radius=15" />
 </p>
 
-<h2 align="center" style="color:#00FFFF;">CURRENT OPERATIONS</h2>
-<div align="center">
-<pre style="display: inline-block; text-align: left;">
-╭─⚡ Running autonomous AI agent networks
-├─Optimizing RAG pipelines with smart memory
-├─Deploying stable, zero-downtime LLM clusters
-├─Building AI systems that improve themselves
-╰─Creating intelligence that outlasts its creators
-</pre>
+<h2 align="center" style="color:#00FFFF; text-shadow: 0 0 20px #00FFFF;">CURRENT OPERATIONS</h2>
+
+<div align="center" style="background: linear-gradient(135deg, #0d1117, #1a1f2c); 
+border: 2px solid #00ffff; border-radius: 20px; padding: 25px 40px; display: inline-block; 
+text-align: left; box-shadow: 0 0 30px #00ffff, 0 0 60px #ff00ff;">
+  
+  <p style="color:#00ffff; font-family:'Courier New', monospace; font-size:16px; line-height:1.8;">
+    <span style="color:#ff00ff;">⚡</span> Running autonomous AI agent networks<br>
+    <span style="color:#ff00ff;">⚡</span> Optimizing RAG pipelines with smart memory<br>
+    <span style="color:#ff00ff;">⚡</span> Deploying stable, zero-downtime LLM clusters<br>
+    <span style="color:#ff00ff;">⚡</span> Building AI systems that improve themselves<br>
+    <span style="color:#ff00ff;">⚡</span> Creating intelligence that outlasts its creators
+  </p>
+
 </div>
 
 <h2 align="center" style="color:#FF00FF; text-shadow: 0 0 25px #FF00FF;">PHILOSOPHY.EXE</h2>
