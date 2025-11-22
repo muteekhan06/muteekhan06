@@ -69,11 +69,13 @@
 
 <h2 align="center" style="color:#00FFFF;">CURRENT OPERATIONS</h2>
 <p align="center">
-  <code>╭─⚡ Building distributed autonomous agent swarms</code><br />
-  <code>├─Weaponizing RAG pipelines with self‑healing memory</code><br />
-  <code>├─Deploying zero‑downtime LLM inference clusters</code><br />
-  <code>├─Engineering recursive self‑improving AI loops</code><br />
-  <code>╰─Creating intelligence that outlives its creators</code>
+<pre>
+╭─⚡ Building distributed autonomous agent swarms
+├─Weaponizing RAG pipelines with self‑healing memory
+├─Deploying zero‑downtime LLM inference clusters
+├─Engineering recursive self‑improving AI loops
+╰─Creating intelligence that outlives its creators
+</pre>
 </p>
 
 <h2 align="center" style="color:#FF00FF; text-shadow: 0 0 25px #FF00FF;">PHILOSOPHY.EXE</h2>
