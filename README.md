@@ -1,101 +1,82 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=48&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1200&lines=MUTEE+UR+REHMAN;NEON+INTELLIGENCE+ARCHITECT;Autonomous+Agentic+Systems+Creator;%F0%9F%94%A5+Building+the+Future+of+AI+%F0%9F%94%A5" alt="Typing SVG" />
+  <strong><span style="font-size:Orbitron; font-size:48px; font-weight:800; color:#00E5FF; text-shadow: 0 0 20px #00E5FF;">
+    MUTEE UR REHMAN
+  </span></strong><br>
+  <span style="font-size:32px; color:#00FFFF;">NEON INTELLIGENCE ARCHITECT</span><br>
+  <span style="font-size:24px; color:#00FFCC;">Autonomous Agentic Systems Creator</span><br>
+  <strong style="color:#FF0055; font-size:28px;">🔥 Building the Future of AI 🔥</strong>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cyber&height=180&text=NEON%20INTELLIGENCE%20CORE&fontAlign=50&fontColor=00FFFF&color=gradient&gradientColor=120,0,255,255&stroke=00E5FF&strokeWidth=4&fontSize=56&animation=fadeIn" />
+  <span style="background:#0d1117; padding:8px 20px; border-radius:12px; border:2px solid #00E5FF; color:#00ff00; font-weight:bold;">Status: OPERATIONAL</span> 
+  <span style="background:#0d1117; padding:8px 20px; border-radius:12px; border:2px solid #00ffff; color:#00ffff; font-weight:bold;">Mode: AUTONOMOUS</span> 
+  <span style="background:#0d1117; padding:8px 20px; border-radius:12px; border:2px solid #ff0055; color:#ff0055; font-weight:bold;">Threat Level: OMEGA CLASS</span>
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/?id=muteekhan06&label=Visitors&color=00e5ff&style=flat&labels=Scanning%20Neural%20Signature..."/>
+<p align="center" style="font-size:18px; color:#e0e0e0; max-width:800px; margin:20px auto;">
+  <strong>Designing self-evolving agentic intelligence • Weaponizing LLMs • Building the post-human workflow era</strong>
 </p>
 
-<img src="https://github.com/muteekhan06/muteekhan06/blob/main/assets/neon-divider-top.svg" alt="Neon Divider"/>
-
-<h1 align="center"><span style="color:#00E5FF; text-shadow: 0 0 20px #00E5FF;">⚡ NEON INTELLIGENCE ARCHITECT ⚡</span></h1>
+<h2 align="center" style="color:#00FFFF; text-shadow: 0 0 15px #00FFFF; letter-spacing:2px;">🔥 CORE DIRECTIVES</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-OPERATIONAL-00ff00?style=for-the-badge&logo=dependabot&logoColor=000&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Mode-AUTONOMOUS-00ffff?style=for-the-badge&logo=react&logoColor=000&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Threat%20Level-OMEGA%20CLASS-ff0055?style=for-the-badge&logo=shield&logoColor=white&labelColor=0d1117"/>
+  <strong>Autonomous LLM Systems</strong> • <strong>Agentic Workflow Engine</strong> • <strong>Cybernetic Automation</strong> • <strong>Zero-Trust AI Architecture</strong>
 </p>
 
-<p align="center">
-  <b>Designing self-evolving agentic intelligence • Weaponizing LLMs • Building the post-human workflow era</b>
-</p>
+<h2 align="center" style="color:#FF00FF; text-shadow: 0 0 15px #FF00FF; letter-spacing:2px;">🧬 TECH HOLOGRAM GRID</h2>
 
-<img src="https://github.com/muteekhan06/muteekhan06/blob/main/assets/matrix-rain.svg" alt="Matrix Rain"/>
-
-<h2 align="center" style="color:#00FFFF; text-shadow: 0 0 15px #00FFFF;">🔥 CORE DIRECTIVES</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Autonomous%20LLM%20Systems-000000?style=flat&logo=openai&logoColor=00E5FF"/>
-  <img src="https://img.shields.io/badge/Agentic%20Workflow%20Engine-000000?style=flat&logo=vercel&logoColor=00FFCC"/>
-  <img src="https://img.shields.io/badge/Cybernetic%20Automation-000000?style=flat&logo=kubernetes&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/Zero-Trust%20AI%20Architecture-000000?style=flat&logo=shield&logoColor=FF00AA"/>
-</p>
-
-<h2 align="center" style="color:#FF00FF; text-shadow: 0 0 15px #FF00FF;">🧬 TECH HOLOGRAM GRID</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,pytorch,tensorflow,docker,kubernetes,redis,postgres,aws,react,nextjs&theme=dark&perline=8"/>
+<p align="center" style="font-size:32px;">
+  Python C++ FastAPI PyTorch TensorFlow Docker Kubernetes Redis PostgreSQL AWS React Next.js
 </p>
 
 <div align="center">
 
-| **Domain**              | **Weaponized Stack**                                                                                 |
-|-------------------------|-----------------------------------------------------------------------------------------------------|
-| Agentic Intelligence    | LangChain • CrewAI • AutoGen • LlamaIndex • Mem0                                                    |
-| Backend Cybernetics     | FastAPI • Uvicorn • WebSockets • GraphQL • gRPC                                                     |
-| Neural Architectures    | PyTorch • JAX • Transformers • LoRA • QLoRA • DeepSpeed                                            |
-| Autonomous Ops          | Docker Swarm • K8s • Argo Workflows • Temporal • Airflow                                            |
-| Intelligence Layer      | Pinecone • Weaviate • Qdrant • Milvus • Chroma                                                      |
+| **Domain**              | **Weaponized Stack**                                                                                   |
+|-------------------------|--------------------------------------------------------------------------------------------------------|
+| Agentic Intelligence    | LangChain • CrewAI • AutoGen • LlamaIndex • Mem0                                                       |
+| Backend Cybernetics     | FastAPI • Uvicorn • WebSockets • GraphQL • gRPC                                                       |
+| Neural Architectures    | PyTorch • JAX • Transformers • LoRA • QLoRA • DeepSpeed                                               |
+| Autonomous Ops          | Docker Swarm • Kubernetes • Argo Workflows • Temporal • Airflow                                       |
+| Intelligence Layer      | Pinecone • Weaviate • Qdrant • Milvus • Chroma                                                        |
 
 </div>
 
-<img src="https://github.com/muteekhan06/muteekhan06/blob/main/assets/neon-grid.svg" alt="Neon Grid"/>
-
-<h2 align="center" style="color:#00FFCC; text-shadow: 0 0 20px #00FFCC;">🏆 ELITE OPERATOR CLEARANCE</h2>
+<h2 align="center" style="color:#00FFCC; text-shadow: 0 0 20px #00FFCC; letter-spacing:2px;">🏆 ELITE OPERATOR CLEARANCE</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rank-OMNIVERSAL%20ARCHITECT-ff00ff?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clearance-CLASS%20Ω-00ffff?style=for-the-badge&logo=lock&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Neural%20Signature-VERIFIED-00ff00?style=for-the-badge&logo=fingerprint&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Paradigm%20Shift-EXECUTED-ff0055?style=for-the-badge&logo=sparkles&logoColor=white"/>
+  <strong>Rank:</strong> Omniverse Architect | 
+  <strong>Clearance:</strong> Class Ω | 
+  <strong>Neural Signature:</strong> Verified | 
+  <strong>Paradigm Shift:</strong> Executed
 </p>
 
-<h2 align="center" style="color:#FF00AA; text-shadow: 0 0 20px #FF00AA;">🌌 NEURAL ACTIVITY DASHBOARD</h2>
+<h2 align="center" style="color:#FF00AA; text-shadow: 0 0 20px #FF00AA; letter-spacing:2px;">🌌 NEURAL ACTIVITY DASHBOARD</h2>
 
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=muteekhan06&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=ffffff&icon_color=00ffff&border_radius=15"/>
-  <img height="200" src="https://streak-stats.azurewebsites.net/?user=muteekhan06&theme=react&hide_border=true&background=0d1117&ring=00E5FF&fire=FF00AA&currStreakLabel=00FFFF&sideLabels=00FFCC&border_radius=15"/>
+<p align="center" style="color:#cccccc; font-style:italic;">
+  GitHub Stats • Contribution Streaks • Language Distribution
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muteekhan06&layout=donut&theme=react&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=ffffff&border_radius=15"/>
+<p align="center" style="color:#00FFFF; font-size:18px;">
+  <strong>Contributions:</strong> High-velocity daily commits across autonomous systems, RAG pipelines, and distributed inference clusters
 </p>
 
-<img src="https://github.com/muteekhan06/muteekhan06/blob/main/assets/cyber-divider.svg" alt="Cyber Divider"/>
+<h2 align="center" style="color:#00FFFF; letter-spacing:2px;">🔮 CURRENT OPERATIONS</h2>
 
-<h2 align="center" style="color:#00FFFF;">🔮 CURRENT OPERATIONS</h2>
-
-<p align="center">
-  <code>╭─⚡ Building distributed autonomous agent swarms</code><br>
-  <code>├─🔥 Weaponizing RAG pipelines with self-healing memory</code><br>
-  <code>├─🌐 Deploying zero-downtime LLM inference clusters</code><br>
-  <code>├─🧠 Engineering recursive self-improving AI loops</code><br>
-  <code>╰─💀 Creating intelligence that outlives its creators</code>
+<p align="center" style="font-family:monospace; color:#00FFCC; line-height:2;">
+  ╭─⚡ Building distributed autonomous agent swarms<br>
+  ├─🔥 Weaponizing RAG pipelines with self-healing memory<br>
+  ├─🌐 Deploying zero-downtime LLM inference clusters<br>
+  ├─🧠 Engineering recursive self-improving AI loops<br>
+  ╰─💀 Creating intelligence that outlives its creators
 </p>
 
-<h2 align="center" style="color:#FF00FF; text-shadow: 0 0 25px #FF00FF;">⚡ PHILOSOPHY.EXE</h2>
+<h2 align="center" style="color:#FF00FF; text-shadow: 0 0 25px #FF00FF; letter-spacing:3px;">⚡ PHILOSOPHY.EXE</h2>
 
-<p align="center" style="font-size:18px; color:#00FFFF; text-shadow: 0 0 10px #00FFFF;">
-  <i>"Code is temporary. Intelligence is eternal.<br>
-  Build systems that dream when you're not looking."</i>
+<p align="center" style="font-size:20px; color:#00FFFF; text-shadow: 0 0 12px #00FFFF; max-width:720px; margin:30px auto; font-style:italic;">
+  “Code is temporary. Intelligence is eternal.<br>
+  Build systems that dream when you're not looking.”
 </p>
 
-<p align="center">
-  <img src="https://moe-counter.glitch.me/get/@muteekhan06?theme=gelbooru"/>
+<p align="center" style="color:#888888; margin-top:40px;">
+  © 2025 Mutee Ur Rehman • Neon Intelligence Core • All realities reserved.
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,22&height=200&section=footer&text=&fontSize=0"/>
