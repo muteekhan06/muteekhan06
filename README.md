@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=48&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1200&lines=MUTEE+UR+REHMAN;NEON+INTELLIGENCE+ARCHITECT;Autonomous+Agentic+Systems+Creator;%F0%9F%94%A5+Building+the+Future+of+AI+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=48&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1200&lines=MUTEE+UR+REHMAN;Autonomous+Intelligence+Engineer;Autonomous+Agentic+Systems+Creator;%F0%9F%94%A5+Building+the+Future+of+AI+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <h1 align="center" style="color:#00E5FF; text-shadow: 0 0 20px #00E5FF;">
-  NEON INTELLIGENCE ARCHITECT
+  Autonomous Intelligence Engineer
 </h1>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <strong>Designing self‑evolving agentic intelligence • Weaponizing LLMs • Building the post‑human workflow era</strong>
+  <strong>Building smart, self-evolving AI • Turning ideas into autonomous systems • Shaping the future of intelligent workflows</strong>
 </p>
 
 <h2 align="center" style="color:#00FFFF; text-shadow: 0 0 15px #00FFFF;">CORE DIRECTIVES</h2>
@@ -62,18 +62,18 @@
 <h2 align="center" style="color:#00FFFF;">CURRENT OPERATIONS</h2>
 <div align="center">
 <pre style="display: inline-block; text-align: left;">
-╭─⚡ Building distributed autonomous agent swarms
-├─Weaponizing RAG pipelines with self‑healing memory
-├─Deploying zero‑downtime LLM inference clusters
-├─Engineering recursive self‑improving AI loops
-╰─Creating intelligence that outlives its creators
+╭─⚡ Running autonomous AI agent networks
+├─Optimizing RAG pipelines with smart memory
+├─Deploying stable, zero-downtime LLM clusters
+├─Building AI systems that improve themselves
+╰─Creating intelligence that outlasts its creators
 </pre>
 </div>
 
 <h2 align="center" style="color:#FF00FF; text-shadow: 0 0 25px #FF00FF;">PHILOSOPHY.EXE</h2>
 <p align="center" style="font-size:18px; color:#00FFFF; text-shadow: 0 0 10px #00FFFF;">
-  <i>"Code is temporary. Intelligence is eternal.<br />
-  Build systems that dream when you're not looking."</i>
+  <i>"Code is temporary. Intelligence lasts forever.<br />
+  Build systems that think, adapt, and evolve on their own."</i>
 </p>
 
 <p align="center">
