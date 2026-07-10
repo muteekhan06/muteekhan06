@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://drive.google.com/file/d/1TsXVUbhM9NT_IoTTss6F7n1jQHID631T/view?usp=sharing" width="100%" alt="Mutee ur Rehman - Applied AI and Full-Stack Developer" />
+<img src="https://drive.google.com/file/d/1TsXVUbhM9NT_IoTTss6F7n1jQHID631T" width="100%" alt="Mutee ur Rehman - Applied AI and Full-Stack Developer" />
 
 # Mutee ur Rehman
 
