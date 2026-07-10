@@ -1,98 +1,55 @@
-<!--
-README.md for GitHub Profile
-Author: Mutee ur Rehman
--->
-
 <div align="center">
 
-<img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Mutee ur Rehman - Applied AI and Full-Stack Developer" width="100%" />
-
-<br />
+<img src="https://drive.google.com/file/d/1TsXVUbhM9NT_IoTTss6F7n1jQHID631T/view?usp=sharing" width="100%" alt="Mutee ur Rehman - Applied AI and Full-Stack Developer" />
 
 # Mutee ur Rehman
 
-### BS Artificial Intelligence Student | Applied AI Developer | Full-Stack Web Developer
-
-<p>
-  I build modern web applications, SaaS-style products, dashboards, AI-powered features, automation workflows, and RAG-based learning systems with a focus on clean UI, reliable functionality, and practical product thinking.
-</p>
+### BS AI Student · Applied AI Developer · Full-Stack Web Developer
 
 <p>
   <a href="mailto:muteekhan06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-muteekhan06%40gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-muteekhan06%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mutee-ur-rehman-developer/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mutee%20ur%20Rehman-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://muteeurrehman-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/muteekhan06">
+    <img src="https://img.shields.io/badge/GitHub-muteekhan06-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=muteekhan06&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=muteekhan06&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-## About Me
-
-I am a **BS Artificial Intelligence student** and **full-stack developer** from Lahore, Pakistan.
-
-My work sits between **modern web development** and **applied AI engineering**. I enjoy building products where frontend, backend, APIs, databases, and AI features work together in a clean and useful way.
-
-I am especially interested in:
-
-- RAG systems
-- LLM application development
-- OpenAI API integrations
-- AI agents and automation workflows
-- Full-stack SaaS products
-- Dashboard and admin tools
-- API-connected applications
-- Production-ready user experiences
-
-I care about writing clean code, building useful interfaces, understanding real user flows, and improving software through iteration.
-
----
-
-## Current Focus
+## Developer Snapshot
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### Applied AI
-
-- OpenAI API
-- LLM APIs
-- Prompt design
-- Embeddings
-- RAG workflows
-- Vector search concepts
-- Source-grounded answers
-- Retrieval quality
-- Hallucination reduction
-- AI chatbot interfaces
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Applied%20AI-OpenAI%20%7C%20RAG-00B8D9?style=for-the-badge" />
+<br /><br />
+RAG workflows, embeddings, prompt design, LLM APIs
 </td>
-<td width="50%" valign="top">
-
-### Full-Stack Engineering
-
-- React.js
-- Next.js
-- TypeScript
-- Node.js
-- REST APIs
-- Supabase
-- PostgreSQL
-- FastAPI basics
-- Dashboards
-- SaaS-style applications
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-2563EB?style=for-the-badge" />
+<br /><br />
+Responsive interfaces, dashboards, SaaS-style products
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Backend-APIs%20%7C%20Databases-16A34A?style=for-the-badge" />
+<br /><br />
+Node.js, REST APIs, Supabase, PostgreSQL
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Automation-Python%20%7C%20Workflows-F59E0B?style=for-the-badge" />
+<br /><br />
+Python scripting, scraping concepts, workflow automation
 </td>
 </tr>
 </table>
@@ -103,82 +60,79 @@ I care about writing clean code, building useful interfaces, understanding real 
 
 <div align="center">
 
-### Frontend
+### Core Tools
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,python,fastapi,postgres,supabase,mongodb,git,github,vercel,figma,vscode" />
 
-### Backend, Database & APIs
+<br />
+<br />
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,postgres,supabase,mongodb" />
-
-### Tools & Deployment
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma" />
+<img src="https://img.shields.io/badge/OpenAI%20API-111827?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-00B8D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Embeddings-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector%20Search-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt%20Design-F59E0B?style=for-the-badge" />
 
 </div>
 
-<br />
-
-| Area | Tools & Technologies |
-|---|---|
-| Frontend | React.js, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap |
-| Backend | Node.js, REST APIs, FastAPI basics, API integrations |
-| Database | Supabase, PostgreSQL, MongoDB basics |
-| Applied AI | OpenAI API, LLM APIs, RAG, embeddings, prompt design, vector search concepts |
-| Automation | Python scripting, Selenium basics, Playwright basics, Google Sheets API |
-| Deployment | Vercel, Git, GitHub, cloud-ready workflows |
-
 ---
 
-## Featured Projects
+## Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### CarMandi
 
-**Car Auction & Marketplace Platform**
+<a href="https://www.carmandi.pk">
+  <img src="https://img.shields.io/badge/Live-Visit%20Project-16A34A?style=for-the-badge" />
+</a>
 
-Live: [www.carmandi.pk](https://www.carmandi.pk)
+<br />
+<br />
 
-CarMandi is a car auction and marketplace-style web platform focused on vehicle discovery, listings, auction-oriented flows, and real-world marketplace logic.
+<img src="https://img.shields.io/badge/Car%20Auction%20Platform-Next.js%20%7C%20React%20%7C%20TypeScript-2563EB?style=for-the-badge" />
 
-**What I worked on:**
+</div>
 
-- Marketplace-style web flows
-- Vehicle listing pages
-- Responsive frontend screens
-- Product flow planning
-- Auction-oriented user journeys
-- Clean UI and page structure
+<br />
 
-**Tech:**
+**Marketplace-style web product** for vehicle discovery, listings, and auction-oriented user flows.
 
-`Next.js` `React` `TypeScript` `Full-Stack Development` `Responsive UI`
+```txt
+Vehicle Listings  ->  Auction Flow  ->  User Journey
+Responsive UI     ->  Product Logic ->  Marketplace UX
+```
 
 </td>
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### Modaya
 
-**Privacy-Focused Virtual Try-On Web App**
+<a href="https://modaya.app">
+  <img src="https://img.shields.io/badge/Live-Visit%20Project-16A34A?style=for-the-badge" />
+</a>
 
-Live: [modaya.app](https://modaya.app)
+<br />
+<br />
 
-Modaya is a virtual try-on web product designed around privacy-conscious user experience, modern product presentation, and clean SaaS-style frontend flow.
+<img src="https://img.shields.io/badge/Virtual%20Try--On-Product%20UI%20%7C%20Responsive%20Web%20App-7C3AED?style=for-the-badge" />
 
-**What I worked on:**
+</div>
 
-- Product-focused frontend flow
-- Responsive UI
-- Privacy-conscious interface patterns
-- Modern SaaS-style presentation
-- User journey improvement
+<br />
 
-**Tech:**
+**Privacy-focused virtual try-on product** with modern SaaS-style frontend and user-centered flow.
 
-`React` `Product UI` `Responsive Web App` `Frontend Development`
+```txt
+Product UI      ->  Try-On Flow  ->  Privacy First
+Responsive UX   ->  Clean Pages  ->  Product Journey
+```
 
 </td>
 </tr>
@@ -186,88 +140,79 @@ Modaya is a virtual try-on web product designed around privacy-conscious user ex
 
 ---
 
-## AI & Learning Projects
+## Applied AI Flow
 
-### Personal RAG Knowledge Assistant
+<div align="center">
 
-A personal learning project built to understand how Retrieval-Augmented Generation systems work end to end.
+```mermaid
+flowchart LR
+    A["Documents"] --> B["Chunking"]
+    B --> C["Embeddings"]
+    C --> D["Vector Search"]
+    D --> E["Relevant Context"]
+    E --> F["Prompt Design"]
+    F --> G["LLM Response"]
+    G --> H["Source-Grounded Answer"]
 
-**What I built:**
+    style A fill:#0f172a,stroke:#38bdf8,color:#fff
+    style B fill:#0f172a,stroke:#38bdf8,color:#fff
+    style C fill:#0f172a,stroke:#60a5fa,color:#fff
+    style D fill:#0f172a,stroke:#818cf8,color:#fff
+    style E fill:#0f172a,stroke:#22c55e,color:#fff
+    style F fill:#0f172a,stroke:#f59e0b,color:#fff
+    style G fill:#0f172a,stroke:#f59e0b,color:#fff
+    style H fill:#0f172a,stroke:#22c55e,color:#fff
+```
 
-- Document ingestion flow
-- Text chunking
-- Embedding generation
-- Vector search and retrieval
-- Prompt construction
-- LLM answer generation
-- Source-grounded response flow
-
-**What I learned:**
-
-- RAG quality depends heavily on retrieval quality
-- Chunking strategy affects answer accuracy
-- LLMs need strong context to avoid weak answers
-- Prompts need testing and iteration
-- Source-grounded answers are more reliable than generic responses
-- AI systems need evaluation, safeguards, and debugging loops
-
-**Tech & Concepts:**
-
-`OpenAI API` `Embeddings` `Vector Search` `RAG` `Prompt Engineering`
+</div>
 
 ---
 
-### AI Chat Interface / LLM Chat App
+## Project Matrix
 
-A React-based AI chat interface built for learning LLM API workflows.
+<table>
+<tr>
+<th align="center">Project</th>
+<th align="center">Type</th>
+<th align="center">Stack</th>
+<th align="center">Focus</th>
+</tr>
 
-**Built features:**
+<tr>
+<td align="center"><b>CarMandi</b></td>
+<td align="center">Marketplace Platform</td>
+<td align="center">Next.js · React · TypeScript</td>
+<td align="center">Listings · Auction Flow · Responsive UI</td>
+</tr>
 
-- Chat-style frontend
-- API-connected message flow
-- Loading states
-- Response states
-- Clean message layout
-- Streaming-style UX concept
+<tr>
+<td align="center"><b>Modaya</b></td>
+<td align="center">Virtual Try-On Web App</td>
+<td align="center">React · Product UI</td>
+<td align="center">Privacy · SaaS UI · User Flow</td>
+</tr>
 
-**Tech:**
+<tr>
+<td align="center"><b>RAG Knowledge Assistant</b></td>
+<td align="center">Applied AI Project</td>
+<td align="center">OpenAI API · Embeddings · RAG</td>
+<td align="center">Retrieval · Prompting · Source Answers</td>
+</tr>
 
-`React` `JavaScript` `LLM API` `Frontend State` `API Integration`
+<tr>
+<td align="center"><b>AI Chat Interface</b></td>
+<td align="center">LLM UI</td>
+<td align="center">React · LLM API</td>
+<td align="center">Chat UX · API Flow · Response States</td>
+</tr>
 
----
-
-### OLXify - Marketplace Data Automation Tool
-
-A Python/Selenium-based learning project for marketplace data extraction and structured data syncing.
-
-**Built features:**
-
-- Browser automation workflow
-- Marketplace data extraction
-- Structured output handling
-- Google Sheets syncing
-
-**Tech:**
-
-`Python` `Selenium` `Google Sheets API` `Data Automation`
-
----
-
-### Used-Car Price Prediction Experiment
-
-A machine learning experiment for estimating used-car prices from structured vehicle information.
-
-**Built features:**
-
-- Data preprocessing
-- Feature preparation
-- Model training experiment
-- Basic model evaluation
-- Seller information processing concept
-
-**Tech:**
-
-`Python` `CatBoost` `NLP Basics` `Feature Engineering` `Model Evaluation`
+<tr>
+<td align="center"><b>OLXify</b></td>
+<td align="center">Automation Tool</td>
+<td align="center">Python · Selenium · Sheets API</td>
+<td align="center">Data Extraction · Sync Workflow</td>
+</tr>
+</table>
 
 ---
 
@@ -275,74 +220,73 @@ A machine learning experiment for estimating used-car prices from structured veh
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=muteekhan06&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muteekhan06&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=muteekhan06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=muteekhan06&theme=tokyonight&hide_border=true" />
 
 <br />
 <br />
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muteekhan06&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muteekhan06&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br />
+<br />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muteekhan06&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
 ---
 
-## GitHub Activity
+## Achievement
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muteekhan06&theme=tokyo-night&hide_border=true" width="100%" />
+<table>
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/CICA%202025-3rd%20Position%20Worldwide-F59E0B?style=for-the-badge" />
+
+<br />
+<br />
+
+### Lahore, Pakistan -> Baku, Azerbaijan
+
+Awarded a fully funded trip to Baku, Azerbaijan for achieving 3rd position worldwide in the CICA Essay Writing Competition 2025.
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## Education
+## Current Direction
 
-### BS Artificial Intelligence  
-**Information Technology University, Lahore**  
-In Progress
+<div align="center">
 
-### Intermediate, Computer Science  
-**Government College University, Lahore**
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/01-Applied%20AI-00B8D9?style=for-the-badge" />
+<br /><br />
+RAG, LLM apps, prompt design, retrieval quality
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/02-Full--Stack%20Products-2563EB?style=for-the-badge" />
+<br /><br />
+Next.js, APIs, dashboards, SaaS-style applications
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/03-Production%20Mindset-16A34A?style=for-the-badge" />
+<br /><br />
+Clean UI, reliability, maintainability, real user flows
+</td>
+</tr>
+</table>
 
----
-
-## Honors
-
-- 3rd position worldwide in the **CICA Essay Writing Competition 2025**
-- Awarded a fully funded trip to **Baku, Azerbaijan**
-
----
-
-## How I Work
-
-I try to build software with a practical engineering mindset.
-
-My approach:
-
-1. Understand the actual problem first
-2. Break the product into clear user flows
-3. Build clean and reusable components
-4. Connect frontend and backend logic properly
-5. Keep performance and responsiveness in mind
-6. Test real user behavior
-7. Improve through iteration and feedback
-8. Document important decisions when needed
-
----
-
-## Open To
-
-- Applied AI engineering internships
-- Full-stack developer roles
-- React / Next.js frontend roles
-- AI app development projects
-- SaaS MVP development
-- API integration work
-- RAG and OpenAI API projects
-- Dashboard and internal tool development
-- Freelance and remote collaboration
+</div>
 
 ---
 
@@ -350,21 +294,19 @@ My approach:
 
 <div align="center">
 
-| Platform | Link |
-|---|---|
-| Email | [muteekhan06@gmail.com](mailto:muteekhan06@gmail.com) |
-| LinkedIn | [linkedin.com/in/mutee-ur-rehman-developer](https://www.linkedin.com/in/mutee-ur-rehman-developer/) |
-| Portfolio | [muteeurrehman-portfolio.vercel.app](https://muteeurrehman-portfolio.vercel.app/) |
-| GitHub | [github.com/muteekhan06](https://github.com/muteekhan06) |
+<a href="mailto:muteekhan06@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mutee-ur-rehman-developer/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://muteeurrehman-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-View%20Work-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-</div>
+<br />
+<br />
 
----
-
-<div align="center">
-
-### Thanks for visiting my profile.
-
-I am always learning, building, and improving.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:38bdf8&height=120&section=footer" />
 
 </div>
