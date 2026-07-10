@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://drive.google.com/file/d/1TsXVUbhM9NT_IoTTss6F7n1jQHID631T" width="100%" alt="Mutee ur Rehman - Applied AI and Full-Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:38bdf8&height=160&section=header&text=Mutee%20ur%20Rehman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Applied%20AI%20%7C%20Full-Stack%20Web%20Development%20%7C%20RAG%20Systems&descSize=14&descAlignY=58" width="100%" alt="Mutee ur Rehman" />
 
-# Mutee ur Rehman
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=BS+Artificial+Intelligence+Student;Applied+AI+Developer;Full-Stack+Web+Developer;RAG+%7C+OpenAI+API+%7C+React+%7C+Next.js+%7C+Python" alt="Typing SVG" />
+</a>
 
-### BS AI Student · Applied AI Developer · Full-Stack Web Developer
+<br />
 
 <p>
   <a href="mailto:muteekhan06@gmail.com">
@@ -21,46 +23,60 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=muteekhan06&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=muteekhan06&label=Profile%20Views&color=38bdf8&style=flat" />
 
 </div>
 
 ---
 
-## Developer Snapshot
+<div align="center">
+
+## Developer Console
+
+</div>
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Applied%20AI-OpenAI%20%7C%20RAG-00B8D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/APPLIED%20AI-0f172a?style=for-the-badge&logo=openai&logoColor=white" />
 <br /><br />
-RAG workflows, embeddings, prompt design, LLM APIs
+<b>RAG</b><br />
+Embeddings<br />
+Prompt Design<br />
+LLM APIs
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FRONTEND-1d4ed8?style=for-the-badge&logo=react&logoColor=white" />
 <br /><br />
-Responsive interfaces, dashboards, SaaS-style products
+<b>React / Next.js</b><br />
+Dashboards<br />
+Responsive UI<br />
+SaaS Interfaces
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Backend-APIs%20%7C%20Databases-16A34A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BACKEND-15803d?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <br /><br />
-Node.js, REST APIs, Supabase, PostgreSQL
+<b>APIs</b><br />
+Node.js<br />
+Supabase<br />
+PostgreSQL
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Automation-Python%20%7C%20Workflows-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AUTOMATION-f59e0b?style=for-the-badge&logo=python&logoColor=white" />
 <br /><br />
-Python scripting, scraping concepts, workflow automation
+<b>Python</b><br />
+Scripts<br />
+Data Tools<br />
+Workflows
 </td>
 </tr>
 </table>
 
 ---
 
-## Tech Stack
-
 <div align="center">
 
-### Core Tools
+## Tech Orbit
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,python,fastapi,postgres,supabase,mongodb,git,github,vercel,figma,vscode" />
 
@@ -77,7 +93,11 @@ Python scripting, scraping concepts, workflow automation
 
 ---
 
-## Featured Work
+<div align="center">
+
+## Featured Project Cards
+
+</div>
 
 <table>
 <tr>
@@ -88,23 +108,25 @@ Python scripting, scraping concepts, workflow automation
 ### CarMandi
 
 <a href="https://www.carmandi.pk">
-  <img src="https://img.shields.io/badge/Live-Visit%20Project-16A34A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Live%20Project-carmandi.pk-16A34A?style=for-the-badge" />
 </a>
 
-<br />
-<br />
+<br /><br />
 
-<img src="https://img.shields.io/badge/Car%20Auction%20Platform-Next.js%20%7C%20React%20%7C%20TypeScript-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Marketplace%20Platform-Next.js%20%7C%20React%20%7C%20TypeScript-2563EB?style=for-the-badge" />
 
 </div>
 
 <br />
 
-**Marketplace-style web product** for vehicle discovery, listings, and auction-oriented user flows.
-
 ```txt
-Vehicle Listings  ->  Auction Flow  ->  User Journey
-Responsive UI     ->  Product Logic ->  Marketplace UX
+Vehicle Discovery
+      |
+      v
+Listing Pages -> Auction Flow -> User Journey
+      |
+      v
+Responsive Marketplace UI
 ```
 
 </td>
@@ -115,23 +137,68 @@ Responsive UI     ->  Product Logic ->  Marketplace UX
 ### Modaya
 
 <a href="https://modaya.app">
-  <img src="https://img.shields.io/badge/Live-Visit%20Project-16A34A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Live%20Project-modaya.app-16A34A?style=for-the-badge" />
 </a>
 
-<br />
-<br />
+<br /><br />
 
-<img src="https://img.shields.io/badge/Virtual%20Try--On-Product%20UI%20%7C%20Responsive%20Web%20App-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Virtual%20Try--On-React%20%7C%20Product%20UI%20%7C%20Responsive-7C3AED?style=for-the-badge" />
 
 </div>
 
 <br />
 
-**Privacy-focused virtual try-on product** with modern SaaS-style frontend and user-centered flow.
+```txt
+Privacy First
+      |
+      v
+Product UI -> Try-On Flow -> User Experience
+      |
+      v
+Modern SaaS-Style Frontend
+```
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### RAG Knowledge Assistant
+
+<img src="https://img.shields.io/badge/Applied%20AI-OpenAI%20API%20%7C%20Embeddings%20%7C%20RAG-00B8D9?style=for-the-badge" />
+
+</div>
+
+<br />
 
 ```txt
-Product UI      ->  Try-On Flow  ->  Privacy First
-Responsive UX   ->  Clean Pages  ->  Product Journey
+Documents -> Chunking -> Embeddings
+      -> Vector Search -> Context
+      -> Prompt -> Source-Grounded Answer
+```
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### AI Chat Interface
+
+<img src="https://img.shields.io/badge/LLM%20UI-React%20%7C%20LLM%20API%20%7C%20Streaming%20UX-0f172a?style=for-the-badge" />
+
+</div>
+
+<br />
+
+```txt
+User Message -> API Request -> LLM Response
+      -> Loading States -> Chat UI
+      -> Clean Interaction Flow
 ```
 
 </td>
@@ -140,85 +207,91 @@ Responsive UX   ->  Clean Pages  ->  Product Journey
 
 ---
 
-## Applied AI Flow
+<div align="center">
+
+## Visual Project Map
+
+</div>
+
+```mermaid
+flowchart TB
+    A["Mutee ur Rehman<br/>Applied AI + Full-Stack"]:::center
+
+    A --> B["CarMandi<br/>Marketplace Platform"]
+    A --> C["Modaya<br/>Virtual Try-On Web App"]
+    A --> D["RAG Knowledge Assistant<br/>Applied AI Project"]
+    A --> E["AI Chat Interface<br/>LLM UI"]
+    A --> F["OLXify<br/>Automation Tool"]
+
+    B --> B1["Next.js"]
+    B --> B2["React"]
+    B --> B3["TypeScript"]
+    B --> B4["Listings + Auction Flow"]
+
+    C --> C1["React"]
+    C --> C2["Product UI"]
+    C --> C3["Privacy-First UX"]
+
+    D --> D1["OpenAI API"]
+    D --> D2["Embeddings"]
+    D --> D3["Vector Search"]
+    D --> D4["Source Answers"]
+
+    E --> E1["LLM API"]
+    E --> E2["Chat UX"]
+    E --> E3["Response States"]
+
+    F --> F1["Python"]
+    F --> F2["Selenium"]
+    F --> F3["Google Sheets API"]
+
+    classDef center fill:#0f172a,stroke:#38bdf8,color:#ffffff,stroke-width:2px;
+    classDef project fill:#111827,stroke:#60a5fa,color:#ffffff,stroke-width:1.5px;
+    classDef stack fill:#172554,stroke:#93c5fd,color:#ffffff;
+    classDef ai fill:#134e4a,stroke:#2dd4bf,color:#ffffff;
+    classDef gold fill:#451a03,stroke:#f59e0b,color:#ffffff;
+
+    class B,C,E,F project;
+    class D ai;
+    class B1,B2,B3,C1,C2,E1,E2,E3,F1,F2,F3 stack;
+    class B4,C3,D1,D2,D3,D4 gold;
+```
+
+---
 
 <div align="center">
 
+## Applied AI Pipeline
+
+</div>
+
 ```mermaid
 flowchart LR
-    A["Documents"] --> B["Chunking"]
-    B --> C["Embeddings"]
-    C --> D["Vector Search"]
-    D --> E["Relevant Context"]
-    E --> F["Prompt Design"]
-    F --> G["LLM Response"]
-    G --> H["Source-Grounded Answer"]
+    A["Raw Docs"] --> B["Clean Text"]
+    B --> C["Chunking"]
+    C --> D["Embeddings"]
+    D --> E["Vector Store"]
+    E --> F["Retrieve Context"]
+    F --> G["Prompt Design"]
+    G --> H["LLM Response"]
+    H --> I["Source-Grounded Answer"]
 
     style A fill:#0f172a,stroke:#38bdf8,color:#fff
     style B fill:#0f172a,stroke:#38bdf8,color:#fff
     style C fill:#0f172a,stroke:#60a5fa,color:#fff
     style D fill:#0f172a,stroke:#818cf8,color:#fff
     style E fill:#0f172a,stroke:#22c55e,color:#fff
-    style F fill:#0f172a,stroke:#f59e0b,color:#fff
+    style F fill:#0f172a,stroke:#22c55e,color:#fff
     style G fill:#0f172a,stroke:#f59e0b,color:#fff
-    style H fill:#0f172a,stroke:#22c55e,color:#fff
+    style H fill:#0f172a,stroke:#f59e0b,color:#fff
+    style I fill:#0f172a,stroke:#22c55e,color:#fff
 ```
 
-</div>
-
 ---
-
-## Project Matrix
-
-<table>
-<tr>
-<th align="center">Project</th>
-<th align="center">Type</th>
-<th align="center">Stack</th>
-<th align="center">Focus</th>
-</tr>
-
-<tr>
-<td align="center"><b>CarMandi</b></td>
-<td align="center">Marketplace Platform</td>
-<td align="center">Next.js · React · TypeScript</td>
-<td align="center">Listings · Auction Flow · Responsive UI</td>
-</tr>
-
-<tr>
-<td align="center"><b>Modaya</b></td>
-<td align="center">Virtual Try-On Web App</td>
-<td align="center">React · Product UI</td>
-<td align="center">Privacy · SaaS UI · User Flow</td>
-</tr>
-
-<tr>
-<td align="center"><b>RAG Knowledge Assistant</b></td>
-<td align="center">Applied AI Project</td>
-<td align="center">OpenAI API · Embeddings · RAG</td>
-<td align="center">Retrieval · Prompting · Source Answers</td>
-</tr>
-
-<tr>
-<td align="center"><b>AI Chat Interface</b></td>
-<td align="center">LLM UI</td>
-<td align="center">React · LLM API</td>
-<td align="center">Chat UX · API Flow · Response States</td>
-</tr>
-
-<tr>
-<td align="center"><b>OLXify</b></td>
-<td align="center">Automation Tool</td>
-<td align="center">Python · Selenium · Sheets API</td>
-<td align="center">Data Extraction · Sync Workflow</td>
-</tr>
-</table>
-
----
-
-## GitHub Analytics
 
 <div align="center">
+
+## GitHub Analytics
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=muteekhan06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=muteekhan06&theme=tokyonight&hide_border=true" />
@@ -237,9 +310,9 @@ flowchart LR
 
 ---
 
-## Achievement
-
 <div align="center">
+
+## Achievement Signal
 
 <table>
 <tr>
@@ -250,7 +323,10 @@ flowchart LR
 <br />
 <br />
 
-### Lahore, Pakistan -> Baku, Azerbaijan
+```txt
+Lahore, Pakistan  ======================>  Baku, Azerbaijan
+                 Fully Funded Trip Award
+```
 
 Awarded a fully funded trip to Baku, Azerbaijan for achieving 3rd position worldwide in the CICA Essay Writing Competition 2025.
 
@@ -262,9 +338,9 @@ Awarded a fully funded trip to Baku, Azerbaijan for achieving 3rd position world
 
 ---
 
-## Current Direction
-
 <div align="center">
+
+## Current Direction
 
 <table>
 <tr>
@@ -290,9 +366,9 @@ Clean UI, reliability, maintainability, real user flows
 
 ---
 
-## Contact
-
 <div align="center">
+
+## Connect
 
 <a href="mailto:muteekhan06@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -307,6 +383,6 @@ Clean UI, reliability, maintainability, real user flows
 <br />
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:38bdf8&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:38bdf8&height=120&section=footer" width="100%" />
 
 </div>
