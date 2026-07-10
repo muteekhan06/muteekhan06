@@ -1,27 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:38bdf8&height=160&section=header&text=Mutee%20ur%20Rehman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Applied%20AI%20%7C%20Full-Stack%20Web%20Development%20%7C%20RAG%20Systems&descSize=14&descAlignY=58" width="100%" alt="Mutee ur Rehman" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:38bdf8&height=165&section=header&text=Mutee%20ur%20Rehman&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Applied%20AI%20Developer%20%7C%20Full-Stack%20Web%20Developer%20%7C%20RAG%20Systems&descSize=14&descAlignY=58" width="100%" alt="Mutee ur Rehman" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=BS+Artificial+Intelligence+Student;Applied+AI+Developer;Full-Stack+Web+Developer;RAG+%7C+OpenAI+API+%7C+React+%7C+Next.js+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=BS+Artificial+Intelligence+Student;Applied+AI+Developer;Full-Stack+Web+Developer;RAG+%7C+OpenAI+API+%7C+React+%7C+Next.js+%7C+Python" alt="Typing animation" />
 </a>
 
 <br />
+<br />
 
-<p>
-  <a href="mailto:muteekhan06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-muteekhan06%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mutee-ur-rehman-developer/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://muteeurrehman-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/muteekhan06">
-    <img src="https://img.shields.io/badge/GitHub-muteekhan06-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<a href="mailto:muteekhan06@gmail.com">
+  <img src="https://img.shields.io/badge/Email-muteekhan06%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mutee-ur-rehman-developer/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://muteeurrehman-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/muteekhan06">
+  <img src="https://img.shields.io/badge/GitHub-muteekhan06-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br />
+<br />
 
 <img src="https://komarev.com/ghpvc/?username=muteekhan06&label=Profile%20Views&color=38bdf8&style=flat" />
 
@@ -33,9 +35,7 @@
 
 ## Developer Console
 
-</div>
-
-<table>
+<table align="center" width="100%">
 <tr>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/APPLIED%20AI-0f172a?style=for-the-badge&logo=openai&logoColor=white" />
@@ -72,6 +72,8 @@ Workflows
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
@@ -97,13 +99,9 @@ Workflows
 
 ## Featured Project Cards
 
-</div>
-
-<table>
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
-
-<div align="center">
+<td align="center" width="50%" valign="top">
 
 ### CarMandi
 
@@ -115,11 +113,9 @@ Workflows
 
 <img src="https://img.shields.io/badge/Marketplace%20Platform-Next.js%20%7C%20React%20%7C%20TypeScript-2563EB?style=for-the-badge" />
 
-</div>
+<br /><br />
 
-<br />
-
-```txt
+<pre align="left">
 Vehicle Discovery
       |
       v
@@ -127,12 +123,10 @@ Listing Pages -> Auction Flow -> User Journey
       |
       v
 Responsive Marketplace UI
-```
+</pre>
 
 </td>
-<td width="50%" valign="top">
-
-<div align="center">
+<td align="center" width="50%" valign="top">
 
 ### Modaya
 
@@ -144,11 +138,9 @@ Responsive Marketplace UI
 
 <img src="https://img.shields.io/badge/Virtual%20Try--On-React%20%7C%20Product%20UI%20%7C%20Responsive-7C3AED?style=for-the-badge" />
 
-</div>
+<br /><br />
 
-<br />
-
-```txt
+<pre align="left">
 Privacy First
       |
       v
@@ -156,54 +148,48 @@ Product UI -> Try-On Flow -> User Experience
       |
       v
 Modern SaaS-Style Frontend
-```
+</pre>
 
 </td>
 </tr>
 </table>
 
-<table>
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
-
-<div align="center">
+<td align="center" width="50%" valign="top">
 
 ### RAG Knowledge Assistant
 
 <img src="https://img.shields.io/badge/Applied%20AI-OpenAI%20API%20%7C%20Embeddings%20%7C%20RAG-00B8D9?style=for-the-badge" />
 
-</div>
+<br /><br />
 
-<br />
-
-```txt
+<pre align="left">
 Documents -> Chunking -> Embeddings
       -> Vector Search -> Context
       -> Prompt -> Source-Grounded Answer
-```
+</pre>
 
 </td>
-<td width="50%" valign="top">
-
-<div align="center">
+<td align="center" width="50%" valign="top">
 
 ### AI Chat Interface
 
 <img src="https://img.shields.io/badge/LLM%20UI-React%20%7C%20LLM%20API%20%7C%20Streaming%20UX-0f172a?style=for-the-badge" />
 
-</div>
+<br /><br />
 
-<br />
-
-```txt
+<pre align="left">
 User Message -> API Request -> LLM Response
       -> Loading States -> Chat UI
       -> Clean Interaction Flow
-```
+</pre>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -291,48 +277,49 @@ flowchart LR
 
 <div align="center">
 
-## GitHub Analytics
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=muteekhan06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=muteekhan06&theme=tokyonight&hide_border=true" />
-
-<br />
-<br />
-
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muteekhan06&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br />
-<br />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muteekhan06&theme=tokyo-night&hide_border=true&area=true" />
+## Build Flow
 
 </div>
+
+```mermaid
+flowchart LR
+    A["Idea"] --> B["UI Flow"]
+    B --> C["Frontend"]
+    C --> D["API Layer"]
+    D --> E["Database"]
+    E --> F["AI / Automation"]
+    F --> G["Testing"]
+    G --> H["Deployment"]
+
+    style A fill:#0f172a,stroke:#60a5fa,color:#fff
+    style B fill:#0f172a,stroke:#60a5fa,color:#fff
+    style C fill:#0f172a,stroke:#38bdf8,color:#fff
+    style D fill:#0f172a,stroke:#22c55e,color:#fff
+    style E fill:#0f172a,stroke:#22c55e,color:#fff
+    style F fill:#0f172a,stroke:#f59e0b,color:#fff
+    style G fill:#0f172a,stroke:#a78bfa,color:#fff
+    style H fill:#0f172a,stroke:#38bdf8,color:#fff
+```
 
 ---
 
 <div align="center">
 
-## Achievement Signal
+## GitHub Analytics
 
-<table>
-<tr>
-<td align="center">
-
-<img src="https://img.shields.io/badge/CICA%202025-3rd%20Position%20Worldwide-F59E0B?style=for-the-badge" />
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muteekhan06&theme=tokyonight" alt="GitHub profile details" />
 
 <br />
 <br />
 
-```txt
-Lahore, Pakistan  ======================>  Baku, Azerbaijan
-                 Fully Funded Trip Award
-```
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muteekhan06&theme=tokyonight" alt="Repositories per language" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muteekhan06&theme=tokyonight" alt="Most committed languages" />
 
-Awarded a fully funded trip to Baku, Azerbaijan for achieving 3rd position worldwide in the CICA Essay Writing Competition 2025.
+<br />
+<br />
 
-</td>
-</tr>
-</table>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muteekhan06&theme=tokyonight" alt="GitHub stats" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muteekhan06&theme=tokyonight&utcOffset=5" alt="Productive time" />
 
 </div>
 
@@ -342,7 +329,7 @@ Awarded a fully funded trip to Baku, Azerbaijan for achieving 3rd position world
 
 ## Current Direction
 
-<table>
+<table align="center" width="100%">
 <tr>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/01-Applied%20AI-00B8D9?style=for-the-badge" />
